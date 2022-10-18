@@ -1,0 +1,28 @@
+{
+  "folders": [
+    {
+      "path": "./",
+      "name": "Home"
+    },
+    {
+      "path": "./infra",
+      "name": "Infrastructure"
+    },
+    {
+      "path": "./node-app",
+      "name": "Application"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      "**/Thumbs.db": true,
+      "**/infra":true,
+      "**/node-app":true
+    }
+  }
+}

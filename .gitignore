@@ -1,0 +1,6 @@
+infra/node_modules
+node-app/node_modules
+infra/.env
+deploy
+Makefile
+.DS_Store
